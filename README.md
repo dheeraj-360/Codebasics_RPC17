@@ -109,6 +109,13 @@ DIVIDE((MAX(fact_print[copies_circulated]) - MIN(fact_print[copies_circulated]))
 
 
 
+**Live Dashboard :**
+
+https://app.powerbi.com/view?r=eyJrIjoiZGVkMWZiYWYtYzEwYS00YjY1LWFlYjgtYTlkMDZiYzc5NmVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9<img width="3030" height="81" alt="image" src="https://github.com/user-attachments/assets/1cca240d-d534-4fd4-b77b-a66394854854" />
+
+
+
+
 
 ---
 
